@@ -1,6 +1,6 @@
 # Kyrox Development Roadmap
 
-## Current Status: Pre-Alpha Development
+## Current Status: Beta & Token Launch
 
 ## Phase 1: Foundation 
 ### Beginnings
