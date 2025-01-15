@@ -48,31 +48,6 @@ result = network.execute_task(task)
 - Encrypted communication channels
 - Secure resource allocation and access control
 
-## 🗺️ Roadmap
-
-### Phase 1: Foundation (Q2 2024)
-- [x] Core architecture design
-- [x] Basic agent framework
-- [ ] Initial API development
-- [ ] Community platform launch
-
-### Phase 2: Beta Launch (Q3 2024)
-- [ ] Early access program
-- [ ] Basic agent creation tools
-- [ ] Limited API access
-- [ ] Developer documentation
-
-### Phase 3: Advanced Development (Q4 2024)
-- [ ] Enhanced agent capabilities
-- [ ] Full API suite
-- [ ] Advanced collaboration features
-- [ ] Performance optimization
-
-### Phase 4: Public Release (Q1 2025)
-- [ ] Full platform launch
-- [ ] Marketplace integration
-- [ ] Enterprise solutions
-- [ ] Global scaling
 
 ## 💡 Example Use Cases
 
